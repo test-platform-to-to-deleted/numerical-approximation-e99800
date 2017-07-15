@@ -1,1 +1,6 @@
-This is the file from src/manual-CSE04/manual-CSE04.org
+#+TITLE: Manual
+#+AUTHOR: Sounak Pradhan
+
+* Manual
+  In this lab you calculate the area under the curve using
+  approximation techniques.
