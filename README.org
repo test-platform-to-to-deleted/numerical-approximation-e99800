@@ -1,6 +1,6 @@
 * Overview
 In this lab you will learn how to code approximation methods
-to solve problems using a computer.  >>>>>>> fill/master
+to solve problems using a computer.
 * Simulation
 + Use the directory =src/simulation= for the simulation files.
 + Add a directory =static= in =src/simulation= for all the static files.

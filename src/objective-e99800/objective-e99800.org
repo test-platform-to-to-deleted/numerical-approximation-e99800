@@ -1,1 +1,9 @@
-This is the file from src/objective-e99800/objective-e99800.org
+#+TITLE: Objective
+#+AUTHOR: VLEAD
+
+* Objective
+  1. To understand that for some problems an approximate
+     numerial solution is as good as the exact solution for
+     practical purposes.
+  2. To understand how to apply these solutions to obtain
+     arbitrary precision.

@@ -1,1 +1,6 @@
-This is the file from src/manual-e99800/manual-e99800.org
+#+TITLE: Manual
+#+AUTHOR: VLEAD
+
+* Manual
+  In this lab you calculate the area under the curve using
+  approximation techniques.

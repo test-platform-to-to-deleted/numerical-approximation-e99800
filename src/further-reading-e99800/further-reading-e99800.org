@@ -1,1 +1,6 @@
-This is the file from src/further-reading-e99800/further-reading-e99800.org
+#+TITLE: Further Reading
+#+AUTHOR: VLEAD
+
+* Further Reading
+  1. [[http://en.wikipedia.org/wiki/Numerical_integration]]
+  2. [[http://en.wikipedia.org/wiki/Numerical_analysis]]
