@@ -1,0 +1,6 @@
+#+TITLE: Manual
+#+AUTHOR: Sounak Pradhan
+
+* Manual
+  In this lab you calculate the area under the curve using
+  approximation techniques.
