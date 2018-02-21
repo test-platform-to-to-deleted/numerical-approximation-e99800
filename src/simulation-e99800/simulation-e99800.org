@@ -5,7 +5,7 @@
 
 
 * Simulation
-  [[../../code/simulation-e99800/index.html][Simulation]]
+  [[./index.html][Simulation]]
 
 * index.html :boilerplate:
 
