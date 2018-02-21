@@ -1,0 +1,11 @@
+#+TITLE: Index
+#+AUTHOR: Vlead
+
+* Numerical Approximation
+** [[./introduction-e99800/introduction-e99800.org][Introduction]]
+** [[./objective-e99800/objective-e99800.org][Objective]]
+** [[./manual-e99800/manual-e99800.org][Manual]]
+** [[./theory-e99800/theory-e99800.org][Theory]]
+** [[./procedure-e99800/procedure-e99800.org][Procedure]]
+** [[./simulation-e99800/simulation-e99800.org][Simulation]]
+** [[./further-reading-e99800/further-reading-e99800.org][Further Reading]]
